@@ -1,0 +1,2 @@
+# KDGUtilities
+Common application code.
